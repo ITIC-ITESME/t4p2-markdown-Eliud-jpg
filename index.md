@@ -5,3 +5,6 @@
 $ git init
 Inicio en el repositorio de /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
